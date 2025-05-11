@@ -85,7 +85,7 @@ http://localhost:5173/
 
 ## **🏆 Credits & Acknowledgments**
 
-- **Developers:** NMSU CS Students (Tyreke, Jake, Anwis, and Lucas
+- **Developers:** Tyreke
 - **Project Repo:** [Study Buddy GitHub](https://github.com/Hakka2424/study-buddy.git)
 - **Course:** CS 382 – MODERN WEB TECHNOLOGIES
 - **Instructor:** Bill Hamilton  
